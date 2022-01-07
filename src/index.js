@@ -6,8 +6,7 @@ import Dropdown from 'react-dropdown';
 import 'react-dropdown/style.css';
 import './index.scss';
 
-const defaultText = `stackoverflow\rhaha 
-# Welcome to my React Markdown Previewer!
+const defaultText = `# Welcome to my React Markdown Previewer!
 
 ## This is a sub-heading...
 ### And here's some other cool stuff:
